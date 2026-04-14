@@ -33,7 +33,7 @@ Logistic Regression selected over Random Forest because it produced only
 
 Income variables combined (31.7%) map directly to DSCR logic used in 
 professional credit underwriting. Credit History aligns with bureau-based 
-risk scoring used by banks like OakNorth.
+risk scoring used in real-world credit risk assessment
 
 ## Tools & Libraries
 Python, Google Colab, pandas, numpy, scikit-learn, matplotlib, seaborn
@@ -43,5 +43,6 @@ Loan Prediction Dataset — Kaggle
 614 records, 12 features, binary classification (Loan Approved: Y/N)
 
 ## Project Structure
-- `loan_prediction.ipynb` — Full code and analysis
+- `loan_prediction.py` — clean code only
+- `loan_prediction.ipynb` — Full code plus analysis with output and workflow
 - `loan-data-new-train.csv` — Dataset used
