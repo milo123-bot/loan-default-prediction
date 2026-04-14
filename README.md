@@ -43,5 +43,5 @@ Loan Prediction Dataset — Kaggle
 614 records, 12 features, binary classification (Loan Approved: Y/N)
 
 ## Project Structure
-- `loan_default_prediction.ipynb` — Full code and analysis
-- `train.csv` — Dataset used
+- `loan_prediction.ipynb` — Full code and analysis
+- `loan-data-new-train.csv` — Dataset used
